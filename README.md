@@ -34,7 +34,7 @@ Real-time audio effects system for vinyl playback, built on Raspberry Pi 5. Feat
 ### 2. PezBay — Custom Auction Website
 Full-stack auction platform inspired by eBay, enabling users to list, browse, and bid on items in real-time.  
 **Tech:** Python, Flask, SQL, HTML/CSS  
-**Repo:** [`/5001CEM_Auction_H`](./5001CEM_Auction_H)
+**Repo:** [`/5001CEM_Auction_H`](./5001CEM_Auction_House)
 
 ---
 
