@@ -62,7 +62,7 @@ C++ text-based adventure set in an eco-futuristic world, focusing on narrative d
 ## Contact
 
 Email: [peter.mellen11@gmail.com](mailto:peter.mellen11@gmail.com)  
-LinkedIn: [linkedin.com/in/petermellen](https://linkedin.com/in/petermellen)  
+LinkedIn: [linkedin.com/in/petermellen](https://linkedin.com/in/Jupiter-mellen)  
 Portfolio: *Available on request*
 
 ---
