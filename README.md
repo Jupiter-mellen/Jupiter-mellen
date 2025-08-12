@@ -22,6 +22,13 @@ Each project includes documentation, source code, and where applicable, datasets
 
 ---
 
+### 3. CNN Music Genre Classification (BSc Dissertation)
+Final year dissertation applying Convolutional Neural Networks to classify music genres using the GTZAN dataset and a custom Spotify dataset.  
+**Tech:** Python, TensorFlow/Keras, Jupyter Notebook  
+**Repo:** [6001CEM_Jupiter_Mellen](https://github.com/Jupiter-mellen/6001CEM_Jupiter_Mellen)
+
+---
+
 ## Featured Projects
 
 ### 1. Beyond V — Vinyl Audio Effects Unit
@@ -35,13 +42,6 @@ Real-time audio effects system for vinyl playback, built on Raspberry Pi 5. Feat
 Full-stack auction platform inspired by eBay, enabling users to list, browse, and bid on items in real-time.  
 **Tech:** Python, Flask, SQL, HTML/CSS  
 **Repo:** [5001CEM_Auction_House](https://github.com/Jupiter-mellen/5001CEM_Auction_House)
-
----
-
-### 3. CNN Music Genre Classification (BSc Dissertation)
-Final year dissertation applying Convolutional Neural Networks to classify music genres using the GTZAN dataset and a custom Spotify dataset.  
-**Tech:** Python, TensorFlow/Keras, Jupyter Notebook  
-**Repo:** [6001CEM_Jupiter_Mellen](https://github.com/Jupiter-mellen/6001CEM_Jupiter_Mellen)
 
 ---
 
