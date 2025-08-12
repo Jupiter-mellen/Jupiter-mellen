@@ -1,4 +1,4 @@
-# Peter Mellen — AI & Data Science Portfolio
+# Peter Mellen — AI & Data Science Github
 
 Welcome to my GitHub.  
 I am a **Computer Science & Artificial Intelligence** graduate with a First Class Honours degree from Coventry University, currently working as a **Support Analyst** in the property technology sector. My expertise spans **machine learning, data analytics, and software development**, with a focus on delivering practical, data-driven solutions.
